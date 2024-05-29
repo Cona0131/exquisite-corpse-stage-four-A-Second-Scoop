@@ -50,7 +50,7 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 Indeed, as time goes by, things do change. The interaction between two completely different things is particularly appealing. Especially, when a change in one thing often triggers a corresponding change in another, which is often quite interesting. In my project, I included a song, so please turn on the speakers and immerse yourself fully while browsing. As the melody of the song flows, the changes in the song's spectrum on the interface are cleverly represented by the number of ice cream balls stacked in ice cream cones. These ice cream balls, of various flavors and arranged in an orderly manner, visually represent the intensity of different frequencies in the song's spectrum through their numbers. In the process of completing this project, I received assistance from ChatGPT. I asked ChatGPT for advice on how to load music in p5.js and how to process the distributed spectrum obtained from the music. I used the spectrum data at each moment to draw ice cream cones of corresponding heights on the canvas, thus demonstrating that time can be recorded through the changes of tangible objects.
 
 ### 🟦 Stage 4
-- Name/Alias:
+- Name/Alias:Cona Cheng
 - Github account:
 - Published webpage for stage 4:
 
