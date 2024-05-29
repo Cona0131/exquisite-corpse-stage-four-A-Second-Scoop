@@ -50,11 +50,13 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 Indeed, as time goes by, things do change. The interaction between two completely different things is particularly appealing. Especially, when a change in one thing often triggers a corresponding change in another, which is often quite interesting. In my project, I included a song, so please turn on the speakers and immerse yourself fully while browsing. As the melody of the song flows, the changes in the song's spectrum on the interface are cleverly represented by the number of ice cream balls stacked in ice cream cones. These ice cream balls, of various flavors and arranged in an orderly manner, visually represent the intensity of different frequencies in the song's spectrum through their numbers. In the process of completing this project, I received assistance from ChatGPT. I asked ChatGPT for advice on how to load music in p5.js and how to process the distributed spectrum obtained from the music. I used the spectrum data at each moment to draw ice cream cones of corresponding heights on the canvas, thus demonstrating that time can be recorded through the changes of tangible objects.
 
 ### 🟦 Stage 4
-- Name/Alias:
-- Github account:
+- Name/Alias:Cona Cheng
+- Github account:https://github.com/Cona0131
 - Published webpage for stage 4:
 
-*... comments to be added here*
+I didn't feel that this work was related to time at first, until I turned up the volume, and the gentle piano music immediately made me fall into memories. Isn't this an expression of time? Press the start button, the music starts to play, and the cone also moves with the music. Press the stop button, everything seems to stop. If music is compared to time, then I seem to be able to control time at this moment.
+
+Changes:I changed the position of the button to the center to make the picture look more harmonious, and also like the balance of time. I changed the shape of the ice cream cone to be more abstract and irregular, and because I changed the color to fluorescent blue, the visual effect is stronger. This inspiration also comes from an old Chinese saying: Time is like the long river of history. The ups and downs of blue are like turbulent waves, symbolizing that time is like the sea. Sometimes it swallows up the memories led by the piano music, and sometimes it exposes the past, just like on the beach.
 
 ### 🟪 Stage 5
 - Name/Alias:
