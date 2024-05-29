@@ -50,14 +50,11 @@ I wanted this sketch to be a bit playful while still having an underlying theme 
 Indeed, as time goes by, things do change. The interaction between two completely different things is particularly appealing. Especially, when a change in one thing often triggers a corresponding change in another, which is often quite interesting. In my project, I included a song, so please turn on the speakers and immerse yourself fully while browsing. As the melody of the song flows, the changes in the song's spectrum on the interface are cleverly represented by the number of ice cream balls stacked in ice cream cones. These ice cream balls, of various flavors and arranged in an orderly manner, visually represent the intensity of different frequencies in the song's spectrum through their numbers. In the process of completing this project, I received assistance from ChatGPT. I asked ChatGPT for advice on how to load music in p5.js and how to process the distributed spectrum obtained from the music. I used the spectrum data at each moment to draw ice cream cones of corresponding heights on the canvas, thus demonstrating that time can be recorded through the changes of tangible objects.
 
 ### 🟦 Stage 4
-- Name/Alias:Cona Cheng
-- Github account:https://github.com/Cona0131
+- Name/Alias:
+- Github account:
 - Published webpage for stage 4:
 
-Actually, I didn't feel that this work was related to time at first, but as I interacted with it more deeply, I suddenly felt the impact when I turned up the volume. In fact, this is very common in many song software. Piano music always evokes people's memories and makes me recall time. The start and stop botton gives me a feeling that I can control it. If the song is time, then I will have the ability to control time.
-
-Changes:I changed the cone to a more visually impactful pattern. I thought the music was perfect, so I didn't change it. I put the start and stop buttons in a more central position to make the picture more harmonious. People always compare time to the long river of years, so I changed it to a lot of blue, which looks more like waves. Time is like this flowing note; the notes and waves are intertwined to form a long river of art.
-
+*... comments to be added here*
 
 ### 🟪 Stage 5
 - Name/Alias:
